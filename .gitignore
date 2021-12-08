@@ -130,8 +130,11 @@ dmypy.json
 
 .vscode/
 /.vscode
-.idea/
 
-node_module/*
+.DS_Store
+node_modules/
+npm-debug.log
+.idea/
+dist/
 
 .github/
