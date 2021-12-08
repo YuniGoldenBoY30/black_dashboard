@@ -1,3 +1,3 @@
 # black_dashboard
 project dashboard prototype vue + django 
-vue2 +django exercise
+vue3 +django exercise
